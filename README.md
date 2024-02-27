@@ -15,3 +15,8 @@ General Steps:
     b. Install node dependencies
     c. Build Frontend Code
     d. Deploy code using webserver.
+
+
+Required node v21.6.1
+Required npm 10.2.4
+Angular CLI: 14.2.13
